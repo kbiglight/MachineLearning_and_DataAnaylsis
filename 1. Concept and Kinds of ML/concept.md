@@ -1,0 +1,15 @@
+<script type="text/javascript" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+</script>
+
+# Concept
+
+ ### 무엇으로 무엇을 예측하고 싶다.
+
+> **Machine Learning은 인공 지능의 한 분야로, 컴퓨터가 학습할 수 있도록하는 알고리즘과 기술을 개발하는 분야를 말한다.**  
+> *\- 위키피디아*
+
+$$Y = f(X)$$ 
+
+- 주어진 데이터를 통해서 입력변수와 출력변수간의 관계를 만드는 함수 $f$를 만드는 것
+- 주어진 데이터 속에서 데이터르이 특징을 찾아내는 함수 $f$를 만드는 것
