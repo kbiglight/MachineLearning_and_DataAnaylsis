@@ -5,7 +5,11 @@
 > **Machine Learning은 인공 지능의 한 분야로, 컴퓨터가 학습할 수 있도록하는 알고리즘과 기술을 개발하는 분야를 말한다.**  
 > *\- 위키피디아*
 
- <div style="text-align: center;"> Y = &fnof;(X) </div>
+![수식](/assets/img/CodeCogsEqn.gif)  
+![수식](/assets/img/CodeCogsEqn.png)
+![수식](/assets/img/CodeCogsEqn.svg)
+<img src="/assets/img/CodeCogsEqn.png" />
+![수식](https://latex.codecogs.com/svg.latex?%5Clarge%20Y%20%3D%20%5Cmathit%7Bf%7D%28X%29)
 
 - 주어진 데이터를 통해서 입력변수와 출력변수간의 관계를 만드는 함수 &fnof;를 만드는 것
 - 주어진 데이터 속에서 데이터르이 특징을 찾아내는 함수 &fnof;를 만드는 것
